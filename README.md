@@ -1,4 +1,4 @@
-# Write a Python program to convert a tuple into arrays.
+# Write a Python program to convert a tuple into arrays using Numpy.
 
 Sample Output:
 
